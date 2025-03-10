@@ -1,11 +1,19 @@
 import express from 'express'
 import serverless from 'serverless-http';
+import cors from 'cors';
 import fs from 'fs'
 
 const api = express();
 const router = express.Router();
 const PORT = process.env.PORT || 3000;
+const corsOptions = {
+    origin: ['*'],
+    methods: 'GET,PUT,PATCH,POST,DELETE',
+    allowedHeaders: ['Content-Type', 'Authorization'],
+  };
+
 api.use(express.json());
+api.use(cors(corsOptions));
 
 api.listen(PORT, () => {
     console.log(`Demo API Server is running on port ${PORT}`)
@@ -13,11 +21,15 @@ api.listen(PORT, () => {
 
 const rankingStockData = JSON.parse(fs.readFileSync("./StockRanking.json", 'utf8'));
 
-router.get("/topstocks", (req, res) => {
+router.get("/", (req, res) => {
+    res.header().json({message: "Stock Ranking API V1.0"});
+})
+
+router.get("/getstocks", (req, res) => {    
     res.json(rankingStockData.data);
 })
 
-router.get("/topstocksbyrank/:rank", (req, res) => {
+router.get("/getstocksbyrank/:rank", (req, res) => {
     const rank = parseInt(req.params.rank);
     const outputData = rankingStockData.data.filter(stock => stock.ranking === rank);
     res.json(outputData);

@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "runserver": "node --env-file .env ./netlify/functions/app.js",
-    "build": "netlify-lambda build ./netlify/functions"
+    "build": "netlify dev"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +14,7 @@
   "dependencies": {
     "@netlify/functions": "^3.0.1",
     "@types/express": "^5.0.0",
+    "cors": "^2.8.5",
     "express": "^4.21.2",
     "serverless-http": "^3.2.0"
   },
