@@ -2,28 +2,29 @@ import express from 'express'
 import serverless from 'serverless-http';
 import fs from 'fs'
 
-const api = express();
-const router = express.Router();
-const PORT = process.env.PORT || 3000;
-api.use(express.json());
+export async function handler(event, context) {
+    const api = express();
+    const router = express.Router();
+    const PORT = process.env.PORT || 3000;
+    api.use(express.json());
 
-api.listen(PORT, () => {
-    console.log(`Demo API Server is running on port ${PORT}`)
-});
+    api.listen(PORT, () => {
+        console.log(`Demo API Server is running on port ${PORT}`)
+    });
 
-const rankingStockData = JSON.parse(fs.readFileSync( "./StockRanking.json", 'utf8'));
+    const rankingStockData = JSON.parse(fs.readFileSync( "./StockRanking.json", 'utf8'));
 
-router.get("/topstocks", (req, res) => {
-    res.json(rankingStockData.data);
-})
+    router.get("/topstocks", (req, res) => {
+        res.json(rankingStockData.data);
+    })
 
-router.get("/topstocksbyrank/:rank", (req, res) => {
-    const rank = parseInt(req.params.rank);
-    const outputData = rankingStockData.data.filter(stock => stock.ranking === rank);
-    res.json(outputData);
-})
+    router.get("/topstocksbyrank/:rank", (req, res) => {
+        const rank = parseInt(req.params.rank);
+        const outputData = rankingStockData.data.filter(stock => stock.ranking === rank);
+        res.json(outputData);
+    })
 
-api.use("/stockapi/", router);
+    api.use("/stockapi/", router);
 
-module.exports.handler = serverless(api);
-
+    return serverless(api)(event, context);
+}
