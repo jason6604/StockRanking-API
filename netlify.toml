@@ -1,11 +1,10 @@
 [build]
-  command = "npm run build"
-  functions = "/netlify/functions"
+  functions = "netlify/functions"
 [functions]
   external_node_modules = ["express"]
   node_bundler = "esbuild"
 [[redirects]]
   force = true
-  from = "/app/*"
+  from = "/stockapi/*"
   status = 200
-  to = "/.netlify/functions/app/:splat"
+  to = "/.netlify/functions/stockapi/:splat"
