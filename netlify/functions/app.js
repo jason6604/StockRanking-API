@@ -1,4 +1,5 @@
 import express from 'express'
+import serverless from 'serverless-http';
 import fs from 'fs'
 
 const api = express();
@@ -23,4 +24,6 @@ router.get("/topstocksbyrank/:rank", (req, res) => {
 })
 
 api.use("/stockapi/", router);
+
+module.exports.handler = serverless(api);
 
