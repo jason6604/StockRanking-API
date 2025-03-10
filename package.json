@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "runserver": "node --env-file .env ./netlify/functions/app.js",
-    "build": "vite build"
+    "build": "netlify-lambda build ./netlify/functions"
   },
   "keywords": [],
   "author": "",
