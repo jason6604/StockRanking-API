@@ -43,6 +43,9 @@
             border: 1px solid #ccc;
             padding: 5px;
         }
+        .httprequest {
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -57,25 +60,25 @@
         </tr>
         <tr>
             <td>getstockpricing</td>
-            <td>Get</td>
+            <td class="httprequest">Get</td>
             <td><pre>http://{api-domain}/stockapi/getstockpricing/{stockid}</pre></td>
             <td><p>Get stocks pricing.</p> <p>All data will be fetched if the stockId is not provided.</p></td>
         </tr>
         <tr>
             <td>getstocksbyrank</td>
-            <td>Get</td>
+            <td class="httprequest">Get</td>
             <td><pre>http://{api-domain}/stockapi/getstocksbyrank/{ranknum}</pre></td>
             <td><p>Get specified ranking stocks. (rank range: 3~20)</p> <p>All data will be fetched if rank is not provided.</p></td>
         </tr>        
         <tr>
             <td>getcompanyinfo</td>
-            <td>Get</td>
+            <td class="httprequest">Get</td>
             <td><pre>http://{api-domain}/stockapi/getcompanyinfo/{stockid}</pre></td>
             <td><p>Get company information.</p> <p>All data will be fetched if the stockId is not provided.</p></td>
         </tr>
         <tr>
             <td>getstockindecators</td>
-            <td>Get</td>
+            <td class="httprequest">Get</td>
             <td><pre>http://{api-domain}/stockapi/getstockindecators/{stockid}</pre></td>
             <td><p>Get get stock indecators.</p> <p>All data will be fetched if the stockId is not provided.</p></td>
         </tr>
