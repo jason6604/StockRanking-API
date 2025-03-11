@@ -1,8 +1,9 @@
 [build]
   functions = "netlify/functions"
 [functions]
-  external_node_modules = ["express"]
+  external_node_modules = ["express", "cors"]
   node_bundler = "esbuild"
+  included_files = ["netlify/functions/*.json", "netlify/functions/*.html"]
 [[redirects]]
   force = true
   from = "/stockapi/*"
