@@ -21,31 +21,51 @@ api.listen(PORT, () => {
 const rankingStockData = JSON.parse(fs.readFileSync(__dirname + "/StockRanking.json", 'utf8'));
 const companyData = JSON.parse(fs.readFileSync(__dirname + "/CompanyInfo.json", 'utf8'));
 const stockIndecatorsData = JSON.parse(fs.readFileSync(__dirname + "/StockIndecators.json", 'utf8'));
+const stockPriceInfoData = JSON.parse(fs.readFileSync(__dirname + "/StockPriceInfo.json", 'utf8'));
 
 router.get("/", (req, res) => {
     res.sendFile(__dirname + "/index.html");
 })
 
-router.get("/getstocks", (req, res) => {    
-    res.json(rankingStockData.data);
-})
+router.get(["/getstockpricing", "/getstockpricing/:id"], (req, res) => {    
+    const stockId = parseInt(req.params.id);
+    if (!stockId) {
+        res.json(stockPriceInfoData);
+        return;
+    }
 
-router.get("/getstocksbyrank/:rank", (req, res) => {
-    const rank = parseInt(req.params.rank);
-    const outputData = rankingStockData.data.filter(stock => stock.ranking === rank);
+    const outputData = stockPriceInfoData.filter(stock => stock.stock_id == stockId);
     res.json(outputData);
 })
 
-router.get("/getcompanyinfo/:id", (req, res) => {    
+router.get(["/getstocksbyrank", "/getstocksbyrank/:rank"], (req, res) => {
+    const rank = parseInt(req.params.rank);
+    if (!rank) {
+        res.json(rankingStockData.data);
+        return;
+    }
+
+    const outputData = rankingStockData.data.filter(stock => stock.ranking == rank);
+    res.json(outputData);
+})
+
+router.get(["/getcompanyinfo", "/getcompanyinfo/:id"], (req, res) => {    
     const stockId = parseInt(req.params.id);
-    console.log(`stockId: ${stockId}`);
+    if (!stockId) {
+        res.json(companyData.data);
+        return;
+    }
+
     const outputData = companyData.data.filter(company => company.stock_id == stockId);
     res.json(outputData);
 })
 
-router.get("/getstockindecators/:id", (req, res) => {    
+router.get(["/getstockindecators", "/getstockindecators/:id"], (req, res) => {  
     const stockId = parseInt(req.params.id);
-    console.log(`stockId: ${stockId}`);
+    if (!stockId) {
+        res.json(stockIndecatorsData);
+        return;
+    }
     const outputData = stockIndecatorsData.filter(stock => stock.stock_id == stockId);
     res.json(outputData);
 })
