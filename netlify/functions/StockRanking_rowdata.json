@@ -95,7 +95,7 @@
 		"average_salary" : "8,450千円"
 	},
 	{
-		"ranking" : 3,
+		"ranking" : 1,
 		"current_price" : "3,295",
 		"stock_id" : "5253",
 		"date" : "2024-08-18",
@@ -114,7 +114,7 @@
 		"average_salary" : "4,660千円"
 	},
 	{
-		"ranking" : 3,
+		"ranking" : 1,
 		"current_price" : "15,250",
 		"stock_id" : "6920",
 		"date" : "2024-08-18",
@@ -133,7 +133,7 @@
 		"average_salary" : "15,810千円"
 	},
 	{
-		"ranking" : 4,
+		"ranking" : 1,
 		"current_price" : "4,021",
 		"stock_id" : "6501",
 		"date" : "2024-08-18",
@@ -152,7 +152,7 @@
 		"average_salary" : "9,360千円"
 	},
 	{
-		"ranking" : 4,
+		"ranking" : 1,
 		"current_price" : "5,844",
 		"stock_id" : "8136",
 		"date" : "2024-08-18",
@@ -171,7 +171,7 @@
 		"average_salary" : "8,770千円"
 	},
 	{
-		"ranking" : 5,
+		"ranking" : 1,
 		"current_price" : "5,022",
 		"stock_id" : "8766",
 		"date" : "2024-08-18",
@@ -190,7 +190,7 @@
 		"average_salary" : "8,550千円"
 	},
 	{
-		"ranking" : 7,
+		"ranking" : 2,
 		"current_price" : "3,429",
 		"stock_id" : "6758",
 		"date" : "2024-08-18",
@@ -209,7 +209,7 @@
 		"average_salary" : "11,130千円"
 	},
 	{
-		"ranking" : 7,
+		"ranking" : 2,
 		"current_price" : "2,637",
 		"stock_id" : "6525",
 		"date" : "2024-08-18",
@@ -228,7 +228,7 @@
 		"average_salary" : "8,580千円"
 	},
 	{
-		"ranking" : 7,
+		"ranking" : 2,
 		"current_price" : "10,935",
 		"stock_id" : "7974",
 		"date" : "2024-08-18",
@@ -247,7 +247,7 @@
 		"average_salary" : "9,850千円"
 	},
 	{
-		"ranking" : 8,
+		"ranking" : 2,
 		"current_price" : "2,532",
 		"stock_id" : "4911",
 		"date" : "2024-08-18",
@@ -266,7 +266,7 @@
 		"average_salary" : "7,400千円"
 	},
 	{
-		"ranking" : 8,
+		"ranking" : 2,
 		"current_price" : "10,750",
 		"stock_id" : "6098",
 		"date" : "2024-08-18",
@@ -285,7 +285,7 @@
 		"average_salary" : "11,190千円"
 	},
 	{
-		"ranking" : 9,
+		"ranking" : 2,
 		"current_price" : "5,880",
 		"stock_id" : "3350",
 		"date" : "2024-08-18",
@@ -304,7 +304,7 @@
 		"average_salary" : "8,890千円"
 	},
 	{
-		"ranking" : 9,
+		"ranking" : 2,
 		"current_price" : "4,792",
 		"stock_id" : "4063",
 		"date" : "2024-08-18",
@@ -323,7 +323,7 @@
 		"average_salary" : "8,870千円"
 	},
 	{
-		"ranking" : 9,
+		"ranking" : 2,
 		"current_price" : "7,562",
 		"stock_id" : "5801",
 		"date" : "2024-08-18",
@@ -342,7 +342,7 @@
 		"average_salary" : "6,780千円"
 	},
 	{
-		"ranking" : 9,
+		"ranking" : 2,
 		"current_price" : "3,295",
 		"stock_id" : "7936",
 		"date" : "2024-08-18",
@@ -361,7 +361,7 @@
 		"average_salary" : "8,980千円"
 	},
 	{
-		"ranking" : 10,
+		"ranking" : 2,
 		"current_price" : "2,361",
 		"stock_id" : "4385",
 		"date" : "2024-08-18",
@@ -380,7 +380,7 @@
 		"average_salary" : "10,350千円"
 	},
 	{
-		"ranking" : 10,
+		"ranking" : 2,
 		"current_price" : "3,726",
 		"stock_id" : "4568",
 		"date" : "2024-08-18",
@@ -399,7 +399,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 11,
+		"ranking" : 2,
 		"current_price" : "2,125.5",
 		"stock_id" : "6526",
 		"date" : "2024-08-18",
@@ -418,7 +418,7 @@
 		"average_salary" : "9,210千円"
 	},
 	{
-		"ranking" : 11,
+		"ranking" : 2,
 		"current_price" : "6,571",
 		"stock_id" : "8001",
 		"date" : "2024-08-18",
@@ -437,7 +437,7 @@
 		"average_salary" : "17,100千円"
 	},
 	{
-		"ranking" : 11,
+		"ranking" : 2,
 		"current_price" : "4,159",
 		"stock_id" : "8411",
 		"date" : "2024-08-18",
@@ -456,7 +456,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 11,
+		"ranking" : 2,
 		"current_price" : "5,194",
 		"stock_id" : "9101",
 		"date" : "2024-08-18",
@@ -475,7 +475,7 @@
 		"average_salary" : "13,780千円"
 	},
 	{
-		"ranking" : 11,
+		"ranking" : 2,
 		"current_price" : "5,417",
 		"stock_id" : "9104",
 		"date" : "2024-08-18",
@@ -494,7 +494,7 @@
 		"average_salary" : "16,750千円"
 	},
 	{
-		"ranking" : 12,
+		"ranking" : 3,
 		"current_price" : "897",
 		"stock_id" : "4165",
 		"date" : "2024-08-18",
@@ -513,7 +513,7 @@
 		"average_salary" : "10,400千円"
 	},
 	{
-		"ranking" : 12,
+		"ranking" : 3,
 		"current_price" : "1,592",
 		"stock_id" : "7003",
 		"date" : "2024-08-18",
@@ -532,7 +532,7 @@
 		"average_salary" : "6,750千円"
 	},
 	{
-		"ranking" : 12,
+		"ranking" : 3,
 		"current_price" : "46,410",
 		"stock_id" : "6146",
 		"date" : "2024-08-18",
@@ -551,7 +551,7 @@
 		"average_salary" : "15,070千円"
 	},
 	{
-		"ranking" : 13,
+		"ranking" : 3,
 		"current_price" : "2,672",
 		"stock_id" : "4676",
 		"date" : "2024-08-18",
@@ -570,7 +570,7 @@
 		"average_salary" : "16,210千円"
 	},
 	{
-		"ranking" : 13,
+		"ranking" : 3,
 		"current_price" : "2,166.5",
 		"stock_id" : "7011",
 		"date" : "2024-08-18",
@@ -589,7 +589,7 @@
 		"average_salary" : "9,650千円"
 	},
 	{
-		"ranking" : 13,
+		"ranking" : 3,
 		"current_price" : "3,270",
 		"stock_id" : "4661",
 		"date" : "2024-08-18",
@@ -608,7 +608,7 @@
 		"average_salary" : "5,940千円"
 	},
 	{
-		"ranking" : 14,
+		"ranking" : 3,
 		"current_price" : "1,391",
 		"stock_id" : "2413",
 		"date" : "2024-08-18",
@@ -627,7 +627,7 @@
 		"average_salary" : "9,480千円"
 	},
 	{
-		"ranking" : 14,
+		"ranking" : 3,
 		"current_price" : "3,690",
 		"stock_id" : "8316",
 		"date" : "2024-08-18",
@@ -646,7 +646,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 15,
+		"ranking" : 3,
 		"current_price" : "2,437",
 		"stock_id" : "6723",
 		"date" : "2024-08-18",
@@ -665,7 +665,7 @@
 		"average_salary" : "8,890千円"
 	},
 	{
-		"ranking" : 15,
+		"ranking" : 3,
 		"current_price" : "2,021",
 		"stock_id" : "7014",
 		"date" : "2024-08-18",
@@ -684,7 +684,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 15,
+		"ranking" : 3,
 		"current_price" : "1,772",
 		"stock_id" : "6315",
 		"date" : "2024-08-18",
@@ -703,7 +703,7 @@
 		"average_salary" : "6,950千円"
 	},
 	{
-		"ranking" : 15,
+		"ranking" : 3,
 		"current_price" : "2,867",
 		"stock_id" : "7270",
 		"date" : "2024-08-18",
@@ -722,7 +722,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 15,
+		"ranking" : 3,
 		"current_price" : "2,843",
 		"stock_id" : "5802",
 		"date" : "2024-08-18",
@@ -741,7 +741,7 @@
 		"average_salary" : "8,200千円"
 	},
 	{
-		"ranking" : 15,
+		"ranking" : 3,
 		"current_price" : "4,304",
 		"stock_id" : "8630",
 		"date" : "2024-08-18",
@@ -760,7 +760,7 @@
 		"average_salary" : "14,550千円"
 	},
 	{
-		"ranking" : 15,
+		"ranking" : 3,
 		"current_price" : "2,409",
 		"stock_id" : "5243",
 		"date" : "2024-08-18",
@@ -779,7 +779,7 @@
 		"average_salary" : "7,000千円"
 	},
 	{
-		"ranking" : 16,
+		"ranking" : 3,
 		"current_price" : "2,400",
 		"stock_id" : "3382",
 		"date" : "2024-08-18",
@@ -798,7 +798,7 @@
 		"average_salary" : "8,180千円"
 	},
 	{
-		"ranking" : 16,
+		"ranking" : 3,
 		"current_price" : "4,821",
 		"stock_id" : "7751",
 		"date" : "2024-08-18",
@@ -817,7 +817,7 @@
 		"average_salary" : "8,320千円"
 	},
 	{
-		"ranking" : 16,
+		"ranking" : 3,
 		"current_price" : "2,400.5",
 		"stock_id" : "6503",
 		"date" : "2024-08-18",
@@ -836,7 +836,7 @@
 		"average_salary" : "8,300千円"
 	},
 	{
-		"ranking" : 16,
+		"ranking" : 3,
 		"current_price" : "2,961",
 		"stock_id" : "6702",
 		"date" : "2024-08-18",
@@ -855,7 +855,7 @@
 		"average_salary" : "9,650千円"
 	},
 	{
-		"ranking" : 16,
+		"ranking" : 3,
 		"current_price" : "2,653",
 		"stock_id" : "6981",
 		"date" : "2024-08-18",
@@ -874,7 +874,7 @@
 		"average_salary" : "7,600千円"
 	},
 	{
-		"ranking" : 16,
+		"ranking" : 3,
 		"current_price" : "25,635",
 		"stock_id" : "8035",
 		"date" : "2024-08-18",
@@ -893,7 +893,7 @@
 		"average_salary" : "12,730千円"
 	},
 	{
-		"ranking" : 16,
+		"ranking" : 3,
 		"current_price" : "3,218",
 		"stock_id" : "8725",
 		"date" : "2024-08-18",
@@ -912,7 +912,7 @@
 		"average_salary" : "11,010千円"
 	},
 	{
-		"ranking" : 17,
+		"ranking" : 4,
 		"current_price" : "3,420",
 		"stock_id" : "2160",
 		"date" : "2024-08-18",
@@ -931,7 +931,7 @@
 		"average_salary" : "11,920千円"
 	},
 	{
-		"ranking" : 17,
+		"ranking" : 4,
 		"current_price" : "2,365",
 		"stock_id" : "6141",
 		"date" : "2024-08-18",
@@ -950,7 +950,7 @@
 		"average_salary" : "8,920千円"
 	},
 	{
-		"ranking" : 17,
+		"ranking" : 4,
 		"current_price" : "2,657",
 		"stock_id" : "6594",
 		"date" : "2024-08-18",
@@ -969,7 +969,7 @@
 		"average_salary" : "7,200千円"
 	},
 	{
-		"ranking" : 17,
+		"ranking" : 4,
 		"current_price" : "2,224",
 		"stock_id" : "7733",
 		"date" : "2024-08-18",
@@ -988,7 +988,7 @@
 		"average_salary" : "10,410千円"
 	},
 	{
-		"ranking" : 17,
+		"ranking" : 4,
 		"current_price" : "3,340",
 		"stock_id" : "5401",
 		"date" : "2024-08-18",
@@ -1007,7 +1007,7 @@
 		"average_salary" : "8,290千円"
 	},
 	{
-		"ranking" : 18,
+		"ranking" : 4,
 		"current_price" : "4,288",
 		"stock_id" : "8750",
 		"date" : "2024-08-18",
@@ -1026,7 +1026,7 @@
 		"average_salary" : "9,490千円"
 	},
 	{
-		"ranking" : 18,
+		"ranking" : 4,
 		"current_price" : "4,106",
 		"stock_id" : "4502",
 		"date" : "2024-08-18",
@@ -1045,7 +1045,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 18,
+		"ranking" : 4,
 		"current_price" : "954",
 		"stock_id" : "5246",
 		"date" : "2024-08-18",
@@ -1064,7 +1064,7 @@
 		"average_salary" : "7,470千円"
 	},
 	{
-		"ranking" : 18,
+		"ranking" : 4,
 		"current_price" : "5,496",
 		"stock_id" : "5108",
 		"date" : "2024-08-18",
@@ -1083,7 +1083,7 @@
 		"average_salary" : "7,480千円"
 	},
 	{
-		"ranking" : 18,
+		"ranking" : 4,
 		"current_price" : "4,589",
 		"stock_id" : "6301",
 		"date" : "2024-08-18",
@@ -1102,7 +1102,7 @@
 		"average_salary" : "8,300千円"
 	},
 	{
-		"ranking" : 18,
+		"ranking" : 4,
 		"current_price" : "4,007",
 		"stock_id" : "7453",
 		"date" : "2024-08-18",
@@ -1121,7 +1121,7 @@
 		"average_salary" : "6,200千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "2,134",
 		"stock_id" : "1802",
 		"date" : "2024-08-18",
@@ -1140,7 +1140,7 @@
 		"average_salary" : "10,660千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "1,640",
 		"stock_id" : "2502",
 		"date" : "2024-08-18",
@@ -1159,7 +1159,7 @@
 		"average_salary" : "12,320千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "2,484",
 		"stock_id" : "3099",
 		"date" : "2024-08-18",
@@ -1178,7 +1178,7 @@
 		"average_salary" : "8,790千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "2,488",
 		"stock_id" : "5105",
 		"date" : "2024-08-18",
@@ -1197,7 +1197,7 @@
 		"average_salary" : "6,420千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "974",
 		"stock_id" : "5616",
 		"date" : "2024-08-18",
@@ -1216,7 +1216,7 @@
 		"average_salary" : "5,240千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "2,687",
 		"stock_id" : "6448",
 		"date" : "2024-08-18",
@@ -1235,7 +1235,7 @@
 		"average_salary" : "7,460千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "2,814",
 		"stock_id" : "8031",
 		"date" : "2024-08-18",
@@ -1254,7 +1254,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "2,768",
 		"stock_id" : "6976",
 		"date" : "2024-08-18",
@@ -1273,7 +1273,7 @@
 		"average_salary" : "6,280千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "1,942",
 		"stock_id" : "7269",
 		"date" : "2024-08-18",
@@ -1292,7 +1292,7 @@
 		"average_salary" : "7,020千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "3,685",
 		"stock_id" : "8267",
 		"date" : "2024-08-18",
@@ -1311,7 +1311,7 @@
 		"average_salary" : "8,620千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "1,372.5",
 		"stock_id" : "5831",
 		"date" : "2024-08-18",
@@ -1330,7 +1330,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "1,620",
 		"stock_id" : "6323",
 		"date" : "2024-08-18",
@@ -1349,7 +1349,7 @@
 		"average_salary" : "9,840千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "4,513",
 		"stock_id" : "6954",
 		"date" : "2024-08-18",
@@ -1368,7 +1368,7 @@
 		"average_salary" : "12,380千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "3,327",
 		"stock_id" : "8053",
 		"date" : "2024-08-18",
@@ -1387,7 +1387,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "4,926",
 		"stock_id" : "9433",
 		"date" : "2024-08-18",
@@ -1406,7 +1406,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "3,080",
 		"stock_id" : "4901",
 		"date" : "2024-08-18",
@@ -1425,7 +1425,7 @@
 		"average_salary" : "10,740千円"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "3,129",
 		"stock_id" : "6383",
 		"date" : "2024-08-18",
@@ -1444,7 +1444,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "4,966",
 		"stock_id" : "7867",
 		"date" : "2024-08-18",
@@ -1463,7 +1463,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 19,
+		"ranking" : 4,
 		"current_price" : "2,361.5",
 		"stock_id" : "9962",
 		"date" : "2024-08-18",
@@ -1482,7 +1482,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,177",
 		"stock_id" : "1719",
 		"date" : "2024-08-18",
@@ -1501,7 +1501,7 @@
 		"average_salary" : "9,630千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,790",
 		"stock_id" : "1812",
 		"date" : "2024-08-18",
@@ -1520,7 +1520,7 @@
 		"average_salary" : "11,770千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "5,091",
 		"stock_id" : "1911",
 		"date" : "2024-08-18",
@@ -1539,7 +1539,7 @@
 		"average_salary" : "9,140千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "3,470",
 		"stock_id" : "1928",
 		"date" : "2024-08-18",
@@ -1558,7 +1558,7 @@
 		"average_salary" : "8,590千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,794",
 		"stock_id" : "2267",
 		"date" : "2024-08-18",
@@ -1577,7 +1577,7 @@
 		"average_salary" : "9,060千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,958",
 		"stock_id" : "2269",
 		"date" : "2024-08-18",
@@ -1596,7 +1596,7 @@
 		"average_salary" : "10,360千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,690",
 		"stock_id" : "2695",
 		"date" : "2024-08-18",
@@ -1615,7 +1615,7 @@
 		"average_salary" : "4,600千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,649",
 		"stock_id" : "2767",
 		"date" : "2024-08-18",
@@ -1634,7 +1634,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,193.5",
 		"stock_id" : "3405",
 		"date" : "2024-08-18",
@@ -1653,7 +1653,7 @@
 		"average_salary" : "7,830千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,237",
 		"stock_id" : "3436",
 		"date" : "2024-08-18",
@@ -1672,7 +1672,7 @@
 		"average_salary" : "6,790千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "4,244",
 		"stock_id" : "3563",
 		"date" : "2024-08-18",
@@ -1691,7 +1691,7 @@
 		"average_salary" : "7,740千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,178.5",
 		"stock_id" : "3659",
 		"date" : "2024-08-18",
@@ -1710,7 +1710,7 @@
 		"average_salary" : "6,840千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "3,160",
 		"stock_id" : "3696",
 		"date" : "2024-08-18",
@@ -1729,7 +1729,7 @@
 		"average_salary" : "5,560千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,440",
 		"stock_id" : "3697",
 		"date" : "2024-08-18",
@@ -1748,7 +1748,7 @@
 		"average_salary" : "6,430千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "3,768",
 		"stock_id" : "4004",
 		"date" : "2024-08-18",
@@ -1767,7 +1767,7 @@
 		"average_salary" : "10,260千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "3,713",
 		"stock_id" : "4062",
 		"date" : "2024-08-18",
@@ -1786,7 +1786,7 @@
 		"average_salary" : "7,320千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,158",
 		"stock_id" : "4507",
 		"date" : "2024-08-18",
@@ -1805,7 +1805,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,141",
 		"stock_id" : "5844",
 		"date" : "2024-08-18",
@@ -1824,7 +1824,7 @@
 		"average_salary" : "6,830千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,472",
 		"stock_id" : "6361",
 		"date" : "2024-08-18",
@@ -1843,7 +1843,7 @@
 		"average_salary" : "8,610千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,784",
 		"stock_id" : "6752",
 		"date" : "2024-08-18",
@@ -1862,7 +1862,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,888.5",
 		"stock_id" : "6988",
 		"date" : "2024-08-18",
@@ -1881,7 +1881,7 @@
 		"average_salary" : "7,610千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "4,205",
 		"stock_id" : "7163",
 		"date" : "2024-08-18",
@@ -1900,7 +1900,7 @@
 		"average_salary" : "7,950千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "4,718",
 		"stock_id" : "7832",
 		"date" : "2024-08-18",
@@ -1919,7 +1919,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "3,158",
 		"stock_id" : "8591",
 		"date" : "2024-08-18",
@@ -1938,7 +1938,7 @@
 		"average_salary" : "9,200千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,933",
 		"stock_id" : "8905",
 		"date" : "2024-08-18",
@@ -1957,7 +1957,7 @@
 		"average_salary" : "6,770千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,350.5",
 		"stock_id" : "9006",
 		"date" : "2024-08-18",
@@ -1976,7 +1976,7 @@
 		"average_salary" : "6,850千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,436",
 		"stock_id" : "9009",
 		"date" : "2024-08-18",
@@ -1995,7 +1995,7 @@
 		"average_salary" : "7,350千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "3,506",
 		"stock_id" : "4324",
 		"date" : "2024-08-18",
@@ -2014,7 +2014,7 @@
 		"average_salary" : "15,880千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,788",
 		"stock_id" : "4543",
 		"date" : "2024-08-18",
@@ -2033,7 +2033,7 @@
 		"average_salary" : "7,550千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,109",
 		"stock_id" : "4592",
 		"date" : "2024-08-18",
@@ -2052,7 +2052,7 @@
 		"average_salary" : "15,960千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "977.5",
 		"stock_id" : "4755",
 		"date" : "2024-08-18",
@@ -2071,7 +2071,7 @@
 		"average_salary" : "7,940千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,913",
 		"stock_id" : "5726",
 		"date" : "2024-08-18",
@@ -2090,7 +2090,7 @@
 		"average_salary" : "6,540千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "4,936",
 		"stock_id" : "5838",
 		"date" : "2024-08-18",
@@ -2109,7 +2109,7 @@
 		"average_salary" : "6,270千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "3,668",
 		"stock_id" : "6305",
 		"date" : "2024-08-18",
@@ -2128,7 +2128,7 @@
 		"average_salary" : "7,610千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,557.5",
 		"stock_id" : "6963",
 		"date" : "2024-08-18",
@@ -2147,7 +2147,7 @@
 		"average_salary" : "8,950千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,239.5",
 		"stock_id" : "7272",
 		"date" : "2024-08-18",
@@ -2166,7 +2166,7 @@
 		"average_salary" : "8,120千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,331",
 		"stock_id" : "8002",
 		"date" : "2024-08-18",
@@ -2185,7 +2185,7 @@
 		"average_salary" : "16,540千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,458",
 		"stock_id" : "8058",
 		"date" : "2024-08-18",
@@ -2204,7 +2204,7 @@
 		"average_salary" : "20,900千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,213",
 		"stock_id" : "8802",
 		"date" : "2024-08-18",
@@ -2223,7 +2223,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,080.5",
 		"stock_id" : "9107",
 		"date" : "2024-08-18",
@@ -2242,7 +2242,7 @@
 		"average_salary" : "13,940千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,482",
 		"stock_id" : "9147",
 		"date" : "2024-08-18",
@@ -2261,7 +2261,7 @@
 		"average_salary" : "9,370千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,602",
 		"stock_id" : "4912",
 		"date" : "2024-08-18",
@@ -2280,7 +2280,7 @@
 		"average_salary" : "6,650千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "3,509",
 		"stock_id" : "5101",
 		"date" : "2024-08-18",
@@ -2299,7 +2299,7 @@
 		"average_salary" : "6,410千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,798",
 		"stock_id" : "5110",
 		"date" : "2024-08-18",
@@ -2318,7 +2318,7 @@
 		"average_salary" : "6,330千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "3,643",
 		"stock_id" : "5332",
 		"date" : "2024-08-18",
@@ -2337,7 +2337,7 @@
 		"average_salary" : "7,290千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,490",
 		"stock_id" : "6254",
 		"date" : "2024-08-18",
@@ -2356,7 +2356,7 @@
 		"average_salary" : "9,270千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,583",
 		"stock_id" : "7182",
 		"date" : "2024-08-18",
@@ -2375,7 +2375,7 @@
 		"average_salary" : "7,110千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "3,005",
 		"stock_id" : "8795",
 		"date" : "2024-08-18",
@@ -2394,7 +2394,7 @@
 		"average_salary" : "10,910千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,453",
 		"stock_id" : "4503",
 		"date" : "2024-08-18",
@@ -2413,7 +2413,7 @@
 		"average_salary" : "11,100千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,347",
 		"stock_id" : "4680",
 		"date" : "2024-08-18",
@@ -2432,7 +2432,7 @@
 		"average_salary" : "5,970千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "5,536",
 		"stock_id" : "5631",
 		"date" : "2024-08-18",
@@ -2451,7 +2451,7 @@
 		"average_salary" : "6,860千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "3,925",
 		"stock_id" : "6871",
 		"date" : "2024-08-18",
@@ -2470,7 +2470,7 @@
 		"average_salary" : "5,870千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,825.5",
 		"stock_id" : "7203",
 		"date" : "2024-08-18",
@@ -2489,7 +2489,7 @@
 		"average_salary" : "---"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "2,873",
 		"stock_id" : "7220",
 		"date" : "2024-08-18",
@@ -2508,7 +2508,7 @@
 		"average_salary" : "6,520千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "4,316",
 		"stock_id" : "7532",
 		"date" : "2024-08-18",
@@ -2527,7 +2527,7 @@
 		"average_salary" : "6,220千円"
 	},
 	{
-		"ranking" : 20,
+		"ranking" : 4,
 		"current_price" : "1,199",
 		"stock_id" : "9416",
 		"date" : "2024-08-18",
