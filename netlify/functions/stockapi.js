@@ -52,11 +52,11 @@ router.get(["/getstocksbyrank", "/getstocksbyrank/:rank"], (req, res) => {
 router.get(["/getcompanyinfo", "/getcompanyinfo/:id"], (req, res) => {    
     const stockId = parseInt(req.params.id);
     if (!stockId) {
-        res.json(companyData.data);
+        res.json(companyData);
         return;
     }
 
-    const outputData = companyData.data.filter(company => company.stock_id == stockId);
+    const outputData = companyData.filter(company => company.stock_id == stockId);
     res.json(outputData);
 })
 
